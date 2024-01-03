@@ -46,5 +46,16 @@ ul{
 }
 h2{ 
     background-color: rgba(213, 130, 238, 0.539);
-    
+    width: 250px;
+    padding-left: 35px;
+    margin-left: 250px;
+
+}
+img{
+     height: 300px;
+     width: 300px;
+     border-radius: 50%;
+     margin-left: 200px;
+
+
 }
